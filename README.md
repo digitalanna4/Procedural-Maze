@@ -44,7 +44,9 @@ Once the map is done, the loading screen will be taken off, and the player will 
 The map size can be easily edited, by changing two number values in the ServerStorage: <br/>
 <img src="https://i.imgur.com/wNGnMop.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
+<h2>References</h2>
 
+[Wikipedia](https://en.wikipedia.org/wiki/Maze_generation_algorithm)
 <!--
 
  ```diff
