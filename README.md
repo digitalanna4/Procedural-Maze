@@ -22,23 +22,27 @@ The maze is created by choosing a location from an array of location points to d
 
 <p align="center">
 While the Maze is Generating, the player is put on a load screen: <br/>
-<img src="https://i.imgur.com/9e4MYrO.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9e4MYrO.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 In the background, however, the map is slowly generating around them:  <br/>
-<img src="https://i.imgur.com/xlUqvDa.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/xlUqvDa.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The maze will keep generating more and more paths, until the area designated is full: <br/>
-<img src="https://i.imgur.com/VTCfn8N.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VTCfn8N.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
+<br />
+<br />
+Each time the maze is generated, it will be randomized, with the starting point for the maze (and the player) being in the center: <br/>
+<img src="https://i.imgur.com/uC3cQt5.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Once the map is done, the loading screen will be taken off, and the player will be allowed to roam around: <br/>
-<img src="https://i.imgur.com/t7kBGNd.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/t7kBGNd.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 The map size can be easily edited, by changing two number values in the ServerStorage: <br/>
-<img src="https://i.imgur.com/wNGnMop.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wNGnMop.png" height="75%" width="75%" alt="Disk Sanitization Steps"/>
 </p>
 
 <!--
